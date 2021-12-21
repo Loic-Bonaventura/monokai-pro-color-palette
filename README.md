@@ -3,6 +3,7 @@
 Just a reminder of the colors, written in #HEX
 
 	bg              #2D2A2E
+	fg              #1D1F21
 	bright_black:   #727072
 	black:			#403E41
 	orange:  		#FC9867
